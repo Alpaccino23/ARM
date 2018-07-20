@@ -1,0 +1,26 @@
+{
+  "id": "/subscriptions/829da2fa-a066-4c78-9850-2f33714bbbf3/resourceGroups/MockUp/providers/Microsoft.Automation/TestAutomation/ContoseAutomationAccount/jobs/ShutDownStartByTag",
+  "name": "foo",
+  "type": "Microsoft.Automation/AutomationAccounts/Jobs",
+  "properties": {
+    "jobId": "5b8a3960-e8ab-45f6-bec6-567df8467d1a",
+    "runbook": {
+      "name": "TestRunbook"
+    },
+    "provisioningState": "Processing",
+    "creationTime": "2018-02-01T05:53:30.243+00:00",
+    "endTime": null,
+    "exception": null,
+    "lastModifiedTime": "2018-02-01T05:53:30.243+00:00",
+    "lastStatusModifiedTime": "2018-02-01T05:53:30.243+00:00",
+    "startTime": null,
+    "status": "New",
+    "statusDetails": "None",
+    "parameters": {
+      "TagName": "MockUp-Tag",
+      "TagValue": "MockUpSQL",
+      "Shutdown" : "true"
+    },
+    "runOn": ""
+  }
+}
