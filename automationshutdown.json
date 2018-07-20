@@ -1,6 +1,6 @@
 {
   "id": "/subscriptions/829da2fa-a066-4c78-9850-2f33714bbbf3/resourceGroups/MockUp/providers/Microsoft.Automation/TestAutomation/ContoseAutomationAccount/jobs/ShutDownStartByTag",
-  "name": "foo",
+  "name": "ShutDownStartByTag",
   "type": "Microsoft.Automation/AutomationAccounts/Jobs",
   "properties": {
     "jobId": "5b8a3960-e8ab-45f6-bec6-567df8467d1a",
